@@ -15,4 +15,5 @@ Head / Оглавление
 ---
 AuditExchangeMailBoxENG.ps1 - Script for logging Exchange mailbox events  
 AuditExchangeMailBoxRUS.ps1 - Скрипт для логирования событий почтового ящика Exchange  
-DisableADandExchangeUserRU.ps1 - Скрипт для архивирования и отключения почтового ящика Exchange а таже отключения пользователя в Active Directory
+DisableADandExchangeUserEN.ps1 - Script to archive and disable an Exchange mailbox and disable a user in Active Directory  
+DisableADandExchangeUserRU.ps1 - Скрипт для архивирования и отключения почтового ящика Exchange а таже отключения пользователя в Active Directory  
